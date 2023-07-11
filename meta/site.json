@@ -1,0 +1,82 @@
+{
+    "title": "spaCy",
+    "description": "spaCy is a free open-source library for Natural Language Processing in Python. It features NER, POS tagging, dependency parsing, word vectors and more.",
+    "slogan": "Industrial-strength Natural Language Processing in Python",
+    "domain": "spacy.io",
+    "nightlyBranches": ["nightly.spacy.io"],
+    "legacy": false,
+    "email": "contact@explosion.ai",
+    "company": "Explosion",
+    "companyUrl": "https://explosion.ai",
+    "repo": "explosion/spaCy",
+    "modelsRepo": "explosion/spacy-models",
+    "projectsRepo": "explosion/projects/tree/v3",
+    "social": {
+        "twitter": "spacy_io",
+        "github": "explosion"
+    },
+    "theme": "#09a3d5",
+    "newsletter": {
+        "user": "spacy.us12",
+        "id": "83b0498b1e7fa3c91ce68c3f1",
+        "list": "ecc82e0493"
+    },
+    "docSearch": {
+        "appId": "Y1LB128RON",
+        "apiKey": "bb601a1daab73e2dc66faf2b79564807",
+        "indexName": "spacy"
+    },
+    "binderUrl": "explosion/spacy-io-binder",
+    "binderVersion": "3.6",
+    "sections": [
+        { "id": "usage", "title": "Usage Documentation", "theme": "blue" },
+        { "id": "models", "title": "Models Documentation", "theme": "blue" },
+        { "id": "api", "title": "API Documentation", "theme": "green" },
+        { "id": "universe", "title": "Universe", "theme": "purple" }
+    ],
+    "navigation": [
+        { "text": "Usage", "url": "/usage" },
+        { "text": "Models", "url": "/models" },
+        { "text": "API", "url": "/api" },
+        { "text": "Universe", "url": "/universe" }
+    ],
+    "footer": [
+        {
+            "label": "spaCy",
+            "items": [
+                { "text": "Usage", "url": "/usage" },
+                { "text": "Models", "url": "/models" },
+                { "text": "API Reference", "url": "/api" },
+                { "text": "Online Course", "url": "https://course.spacy.io" },
+                {
+                    "text": "Custom Solutions",
+                    "url": "https://explosion.ai/custom-solutions"
+                }
+            ]
+        },
+        {
+            "label": "Community",
+            "items": [
+                { "text": "Universe", "url": "/universe" },
+                {
+                    "text": "GitHub Discussions",
+                    "url": "https://github.com/explosion/spaCy/discussions"
+                },
+                { "text": "Issue Tracker", "url": "https://github.com/explosion/spaCy/issues" },
+                {
+                    "text": "Stack Overflow",
+                    "url": "http://stackoverflow.com/questions/tagged/spacy"
+                }
+            ]
+        },
+        {
+            "label": "Connect",
+            "items": [
+                { "text": "Twitter", "url": "https://twitter.com/spacy_io" },
+                { "text": "GitHub", "url": "https://github.com/explosion/spaCy" },
+                { "text": "YouTube", "url": "https://youtube.com/c/ExplosionAI" },
+                { "text": "Blog", "url": "https://explosion.ai/blog" }
+            ]
+        }
+    ]
+}
